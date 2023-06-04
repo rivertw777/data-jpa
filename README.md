@@ -1,6 +1,5 @@
 # 스프링 데이터 JPA 학습 
 
-## 도메인 모델
 ### 엔티티 클래스
 <img src = "https://user-images.githubusercontent.com/105557972/243177391-84def019-6328-4131-ae5c-956977acba55.png"></img>
 ### ERD
